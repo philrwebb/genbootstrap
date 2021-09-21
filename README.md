@@ -19,4 +19,4 @@ open vscode console in the genbootstrap folder and 'npm run gulp' to get gulp wa
 
 Try commenting out the purge line in gulpfile.js and have a look at the size of the generated css
 
-All of the above assumes you have node installed https://nodejs.org/download
+All of the above assumes you have node installed https://nodejs.org
