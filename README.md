@@ -7,11 +7,11 @@ purge to ship only css used in project content (html, etc).
 
 clone this project local:
 
-git clone https://github.com/philrwebb/genbootstrap.git
+  git clone https://github.com/philrwebb/genbootstrap.git
 
-cd genbootstrap
+  cd genbootstrap
 
-npm i 
+  npm i 
 
 if using vscode then use liveserver extension to run the dev web server against homepage.html
 
